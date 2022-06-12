@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm currently persuning Masters of Engeneering Studies from University of Auckland.
+I'm also about to complete Google data analyst certified course online.
+I'm looking for internship to work alongside my studies as the product analyst.
 <!--
 **akshanshmalik/akshanshmalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
